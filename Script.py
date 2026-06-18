@@ -224,7 +224,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/iP_Update">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/iP_Update">[ iP Update ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/dubbedmoviez_77">{file_name}</a></b>\n\n<b>⚜️ 𝙪𝙥𝙡𝙤𝙖𝙙𝙚𝙙 𝙗𝙮 : [<a href="https://t.me/dubbedmoviez_77"> Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77 </a>]</b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
